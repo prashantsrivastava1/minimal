@@ -2,23 +2,17 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Projects Undertaken
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Project 1
-
-Fraud detection
-
-## Project 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## iLLAMA
+  ### Technology: 
+  WPF, C#, .Net, XAML, WCF, SQL Server
+  ### Role: 
+  Technical Lead
+  ### Responsibility: 
+  End-to-end delivery, Code review, delegating tasks to sub-ordinates, designing & implementing core functionalities, etc.
+  ### Description: 
+  “Integrated Loan Lifecycle & Accounting Management Application”. This project is made for one of the prestigious US banks to manage the Home Loans and     Accounting   system. 
 
 ### Project 3
 
