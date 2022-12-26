@@ -4,5 +4,5 @@ description: I’m a Senior Staff Engineer for Nagarro, a software developer foc
 I’m truly passionate about my work and always eager to connect with other developers. While I enjoy all aspects of my job, I think my favorite stage of a project is working with the client or business unit leader to understand his or her business objectives. As we go through that collaborative process, the ideas start to flow and that’s always the fun part.
 I have a B.Tech from Uttar Pradesh Technical University.
 show_downloads: true
-google_analytics:
+google_analytics: true
 theme: jekyll-theme-minimal
